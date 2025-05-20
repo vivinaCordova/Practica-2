@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "nombre": "Mariposas",
+        "id_genero": 2,
+        "duracion": 34,
+        "url": "httt/uh8yehhnjn",
+        "tipo": "VIRTUAL",
+        "id_album": 2
+    },
+    {
+        "id": 2,
+        "nombre": "Enamorado tuyo",
+        "id_genero": 3,
+        "duracion": 2,
+        "url": "https://music_enamoradotuyo",
+        "tipo": "VIRTUAL",
+        "id_album": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Tiempo de Verano",
+        "id_genero": 2,
+        "duracion": 6,
+        "url": "https://music_tiempo_de_verano",
+        "tipo": "VIRTUAL",
+        "id_album": 2
+    },
+    {
+        "id": 4,
+        "nombre": "Juego de citas",
+        "id_genero": 1,
+        "duracion": 5,
+        "url": "https://music_juego_de_citas",
+        "tipo": "FISICO",
+        "id_album": 3
+    },
+    {
+        "id": 5,
+        "nombre": "Corazon de acero",
+        "id_genero": 1,
+        "duracion": 45,
+        "url": "htttps://music_corazon_de_acero",
+        "tipo": "VIRTUAL",
+        "id_album": 2
+    },
+    {
+        "id": 6,
+        "nombre": "Cartas al amor",
+        "id_genero": 1,
+        "duracion": 466,
+        "url": "https://music_Cartas_de_Amor",
+        "tipo": "VIRTUAL",
+        "id_album": 2
+    }
+]

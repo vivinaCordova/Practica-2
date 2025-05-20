@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "Dark Moon",
+        "fecha": "May 17, 2025, 12:28:28 PM",
+        "id_banda": 2
+    },
+    {
+        "id": 2,
+        "nombre": "San Marcos",
+        "fecha": "May 17, 2025, 12:28:28 PM",
+        "id_banda": 3
+    },
+    {
+        "id": 3,
+        "nombre": "XO",
+        "fecha": "May 17, 2025, 12:28:28 PM",
+        "id_banda": 1
+    }
+]
