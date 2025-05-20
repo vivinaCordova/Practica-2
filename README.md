@@ -1,6 +1,6 @@
 # PRACTICA 2
 ## Nombre: Viviana Córdova 
-En la precente preactica encontra el desarrollo de la practica numero 2
+En el precente repositorio encontra el desarrollo de las dos partes de la practica numero 2
 
 la practica numero 2 se dividio en 2 partes:
 
