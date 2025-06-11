@@ -1,10 +1,10 @@
-# PRACTICA 2
+# PRACTICA 3
 ## Nombre: Viviana Córdova 
 En la precente practica se toma lo desarrollado en la paractica previa(parctica 2), con ello se añade los metodos de busqueda y los metodos de ordenación(los temas desarrollados durante toda la unidad) 
 
 ![imagen](https://github.com/vivinaCordova/Practica-2/blob/main/Captura%20de%20pantalla%20de%202025-06-11%2008-34-12.png)
 ### Parte 1
-la primera, consistia en comparar el redimiento de un arreglo y el de una lista enlazada, el programa deberia ser capaz de contar todos los numero aquellos que se repiten y precentar en pantalla
+Implementar el algoritmo de ordenación Quicksort, y shellsort con la clase LinkedList vista en clases usando objetos y datos numéricos (tal como se vio en clases), no usar librerías externas ni las clases propias del lenguaje de programación. En el caso de uso de objetos se debe usar la práctica 2
 
 [Lista y Arreglos](https://github.com/vivinaCordova/Practica-2/blob/main/src/main/java/org/unl/music/base/controller/data_struct/list/LinkedListPractica.java)
 
@@ -12,7 +12,7 @@ la primera, consistia en comparar el redimiento de un arreglo y el de una lista 
 
 
 ### Parte 2
-la segunda consistea en listar canciones y permitir que se puedan registrar nuevas, usando models, daos, services y vistas.
+Implementar el algoritmo de búsqueda binario y lineal binario con la clase LinkedList vista en clases usando objetos y datos use los resultados de la practica 2. 
 
 [Modelo: Cancion](https://github.com/vivinaCordova/Practica-2/blob/main/src/main/java/org/unl/music/base/models/Cancion.java)
 
