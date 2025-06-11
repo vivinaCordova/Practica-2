@@ -1,9 +1,8 @@
 # PRACTICA 2
 ## Nombre: Viviana Córdova 
-En el precente repositorio encontra el desarrollo de las dos partes de la practica numero 2
+En la precente practica se toma lo desarrollado en la paractica previa(parctica 2), con ello se añade los metodos de busqueda y los metodos de ordenación(los temas desarrollados durante toda la unidad) 
 
-la practica numero 2 se dividio en 2 partes:
-
+![imagen](https://github.com/vivinaCordova/Practica-2/blob/main/Captura%20de%20pantalla%20de%202025-06-11%2008-34-12.png)
 ### Parte 1
 la primera, consistia en comparar el redimiento de un arreglo y el de una lista enlazada, el programa deberia ser capaz de contar todos los numero aquellos que se repiten y precentar en pantalla
 
