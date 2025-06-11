@@ -2,19 +2,67 @@
     {
         "id": 1,
         "nombre": "Dark Moon",
-        "fecha": "May 17, 2025, 12:28:28 PM",
+        "fecha": "Jun 9, 2025, 8:22:07 AM",
         "id_banda": 2
     },
     {
         "id": 2,
         "nombre": "San Marcos",
-        "fecha": "May 17, 2025, 12:28:28 PM",
+        "fecha": "Jun 9, 2025, 8:22:07 AM",
         "id_banda": 3
     },
     {
         "id": 3,
-        "nombre": "XO",
-        "fecha": "May 17, 2025, 12:28:28 PM",
+        "nombre": "Primavera azul",
+        "fecha": "Jun 9, 2025, 8:22:07 AM",
+        "id_banda": 1
+    },
+    {
+        "id": 4,
+        "nombre": "Amor de verano",
+        "fecha": "Jun 9, 2025, 8:22:07 AM",
+        "id_banda": 1
+    },
+    {
+        "id": 5,
+        "nombre": "Santas Marias",
+        "fecha": "Jun 9, 2025, 8:22:07 AM",
+        "id_banda": 1
+    },
+    {
+        "id": 6,
+        "nombre": "Rosas de mar",
+        "fecha": "Jun 9, 2025, 8:22:07 AM",
+        "id_banda": 1
+    },
+    {
+        "id": 7,
+        "nombre": "Noche de Luna",
+        "fecha": "Jun 9, 2025, 8:29:26 AM",
+        "id_banda": 2
+    },
+    {
+        "id": 8,
+        "nombre": "Jose Jose",
+        "fecha": "Jun 9, 2025, 8:29:26 AM",
+        "id_banda": 3
+    },
+    {
+        "id": 9,
+        "nombre": "Doble habitación",
+        "fecha": "Jun 9, 2025, 8:29:26 AM",
+        "id_banda": 1
+    },
+    {
+        "id": 10,
+        "nombre": "La ventana de al lado",
+        "fecha": "Jun 9, 2025, 8:29:26 AM",
+        "id_banda": 1
+    },
+    {
+        "id": 11,
+        "nombre": "Los ojos no mienten",
+        "fecha": "Jun 9, 2025, 8:29:26 AM",
         "id_banda": 1
     }
 ]

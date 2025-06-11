@@ -1,14 +1,38 @@
 [
     {
         "id": 1,
-        "nombre": "SALSA"
+        "nombre": "Salsa"
     },
     {
         "id": 2,
-        "nombre": "BACHATA"
+        "nombre": "Cumbia"
     },
     {
         "id": 3,
-        "nombre": "POP"
+        "nombre": "Balada"
+    },
+    {
+        "id": 4,
+        "nombre": "Merengue"
+    },
+    {
+        "id": 5,
+        "nombre": "Bachata"
+    },
+    {
+        "id": 6,
+        "nombre": "Metal"
+    },
+    {
+        "id": 7,
+        "nombre": "Rock"
+    },
+    {
+        "id": 8,
+        "nombre": "Pop"
+    },
+    {
+        "id": 9,
+        "nombre": "Techno"
     }
 ]

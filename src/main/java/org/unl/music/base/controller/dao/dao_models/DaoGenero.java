@@ -1,9 +1,11 @@
 package org.unl.music.base.controller.dao.dao_models;
+
 import org.unl.music.base.models.Genero;
 import org.unl.music.base.controller.dao.AdapterDao;
 
-public class DaoGenero extends AdapterDao<Genero>{
+public class DaoGenero extends AdapterDao<Genero> {
     private Genero obj;
+
     public DaoGenero() {
         super(Genero.class);
         // TODO Auto-generated constructor stub
@@ -21,11 +23,11 @@ public class DaoGenero extends AdapterDao<Genero>{
 
     public Boolean save() {
         try {
-            obj.setId(listAll().getLength()+1);
+            obj.setId(listAll().getLength() + 1);
             this.persist(obj);
             return true;
         } catch (Exception e) {
-            //TODO
+            // TODO
             return false;
             // TODO: handle exception
         }
@@ -36,7 +38,7 @@ public class DaoGenero extends AdapterDao<Genero>{
             this.update(obj, pos);
             return true;
         } catch (Exception e) {
-            //TODO
+            // TODO
             return false;
             // TODO: handle exception
         }
@@ -45,22 +47,55 @@ public class DaoGenero extends AdapterDao<Genero>{
     public static void main(String[] args) {
         DaoGenero da = new DaoGenero();
         da.getObj().setId(da.listAll().getLength() + 1);
-        da.getObj().setNombre("SALSA");
+        da.getObj().setNombre("Cumbia");
+        if (da.save())
+            System.out.println("GUARDADO");
+        else
+            System.out.println("Hubo un error");
+
+        da.getObj().setId(da.listAll().getLength() + 1);
+        da.getObj().setNombre("Balada");
         if (da.save())
             System.out.println("GUARDADO");
         else
             System.out.println("Hubo un error");
         da.getObj().setId(da.listAll().getLength() + 1);
-        da.getObj().setNombre("BACHATA");
+        da.getObj().setNombre("Merengue");
         if (da.save())
-                System.out.println("GUARDADO");
+            System.out.println("GUARDADO");
         else
             System.out.println("Hubo un error");
         da.getObj().setId(da.listAll().getLength() + 1);
-        da.getObj().setNombre("POP");
+        da.getObj().setNombre("Bachata");
         if (da.save())
-                System.out.println("GUARDADO");
+            System.out.println("GUARDADO");
         else
             System.out.println("Hubo un error");
-        }
+        da.getObj().setId(da.listAll().getLength() + 1);
+        da.getObj().setNombre("Metal");
+        if (da.save())
+            System.out.println("GUARDADO");
+        else
+            System.out.println("Hubo un error");
+        da.getObj().setId(da.listAll().getLength() + 1);
+        da.getObj().setNombre("Rock");
+        if (da.save())
+            System.out.println("GUARDADO");
+        else
+            System.out.println("Hubo un error");
+        da.getObj().setId(da.listAll().getLength() + 1);
+        da.getObj().setNombre("Pop");
+        if (da.save())
+            System.out.println("GUARDADO");
+        else
+            System.out.println("Hubo un error");
+        da.getObj().setId(da.listAll().getLength() + 1);
+        da.getObj().setNombre("Techno");
+        if (da.save())
+            System.out.println("GUARDADO");
+        else
+            System.out.println("Hubo un error");
+
+    }
+
 }

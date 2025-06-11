@@ -48,7 +48,7 @@ public class DaoAlbum extends AdapterDao<Album>{
     public static void main(String[] args) {
         DaoAlbum da = new DaoAlbum();
         da.getObj().setId(da.listAll().getLength() + 1);
-        da.getObj().setNombre("Dark Moon");
+        da.getObj().setNombre("Noche de Luna");
         da.getObj().setId_banda(2);
         da.getObj().setFecha(new Date());
         if (da.save())
@@ -56,7 +56,7 @@ public class DaoAlbum extends AdapterDao<Album>{
         else
             System.out.println("Hubo un error");
         da.getObj().setId(da.listAll().getLength() + 1);
-        da.getObj().setNombre("San Marcos");
+        da.getObj().setNombre("Jose Jose");
         da.getObj().setId_banda(3);
         da.getObj().setFecha(new Date());
         if (da.save())
@@ -64,14 +64,29 @@ public class DaoAlbum extends AdapterDao<Album>{
         else
             System.out.println("Hubo un error");
         da.getObj().setId(da.listAll().getLength() + 1);
-        da.getObj().setNombre("XO");
+        da.getObj().setNombre("Doble habitación");
         da.getObj().setId_banda(1);
         da.getObj().setFecha(new Date());
         if (da.save())
             System.out.println("GUARDADO");
         else
             System.out.println("Hubo un error");
-    
+        da.getObj().setId(da.listAll().getLength() + 1);
+        da.getObj().setNombre("La ventana de al lado");
+        da.getObj().setId_banda(1);
+        da.getObj().setFecha(new Date());
+        if (da.save())
+            System.out.println("GUARDADO");
+        else
+            System.out.println("Hubo un error");
+        da.getObj().setId(da.listAll().getLength() + 1);
+        da.getObj().setNombre("Los ojos no mienten");
+        da.getObj().setId_banda(1);
+        da.getObj().setFecha(new Date());
+        if (da.save())
+            System.out.println("GUARDADO");
+        else
+            System.out.println("Hubo un error");
     }
 
     

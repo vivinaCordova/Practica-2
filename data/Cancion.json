@@ -1,56 +1,137 @@
 [
     {
         "id": 1,
-        "nombre": "Mariposas",
-        "id_genero": 2,
-        "duracion": 34,
-        "url": "httt/uh8yehhnjn",
-        "tipo": "VIRTUAL",
+        "nombre": "Enamorado Tuyo",
+        "id_genero": 6,
+        "duracion": 23,
+        "url": "https://music_enamoradotuyo",
+        "tipo": "FISICO",
         "id_album": 2
     },
     {
         "id": 2,
-        "nombre": "Enamorado tuyo",
+        "nombre": "Maldita Primavera",
         "id_genero": 3,
-        "duracion": 2,
-        "url": "https://music_enamoradotuyo",
+        "duracion": 24,
+        "url": "https://music_maldita_primavera",
         "tipo": "VIRTUAL",
-        "id_album": 1
+        "id_album": 6
     },
     {
         "id": 3,
-        "nombre": "Tiempo de Verano",
-        "id_genero": 2,
-        "duracion": 6,
-        "url": "https://music_tiempo_de_verano",
-        "tipo": "VIRTUAL",
+        "nombre": "Chica mirame",
+        "id_genero": 1,
+        "duracion": 26,
+        "url": "https://music_chica_mirame",
+        "tipo": "FISICO",
         "id_album": 2
     },
     {
         "id": 4,
-        "nombre": "Juego de citas",
-        "id_genero": 1,
-        "duracion": 5,
-        "url": "https://music_juego_de_citas",
-        "tipo": "FISICO",
-        "id_album": 3
+        "nombre": "kiss me liar",
+        "id_genero": 7,
+        "duracion": 32,
+        "url": "https://music_kiss_me_-liar",
+        "tipo": "VIRTUAL",
+        "id_album": 1
     },
     {
         "id": 5,
-        "nombre": "Corazon de acero",
-        "id_genero": 1,
-        "duracion": 45,
-        "url": "htttps://music_corazon_de_acero",
-        "tipo": "VIRTUAL",
-        "id_album": 2
+        "nombre": "king",
+        "id_genero": 9,
+        "duracion": 28,
+        "url": "https://music_king",
+        "tipo": "FISICO",
+        "id_album": 1
     },
     {
         "id": 6,
-        "nombre": "Cartas al amor",
-        "id_genero": 1,
-        "duracion": 466,
-        "url": "https://music_Cartas_de_Amor",
+        "nombre": "Bad Boy",
+        "id_genero": 8,
+        "duracion": 32,
+        "url": "https://music_bad_boy",
         "tipo": "VIRTUAL",
-        "id_album": 2
+        "id_album": 11
+    },
+    {
+        "id": 8,
+        "nombre": "Corazón Roto",
+        "id_genero": 4,
+        "duracion": 34,
+        "url": "https://music_corazon_roto",
+        "tipo": "FISICO",
+        "id_album": 8
+    },
+    {
+        "id": 9,
+        "nombre": "Salvaje",
+        "id_genero": 8,
+        "duracion": 29,
+        "url": "https://music_salvaje",
+        "tipo": "VIRTUAL",
+        "id_album": 5
+    },
+    {
+        "id": 10,
+        "nombre": "Miénteme Mucho ",
+        "id_genero": 2,
+        "duracion": 34,
+        "url": "https://music_mienteme_mucho",
+        "tipo": "VIRTUAL",
+        "id_album": 7
+    },
+    {
+        "id": 11,
+        "nombre": "Amor de el Bueno",
+        "id_genero": 3,
+        "duracion": 45,
+        "url": "https://music_amor_de _el_bueno",
+        "tipo": "FISICO",
+        "id_album": 10
+    },
+    {
+        "id": 12,
+        "nombre": "Como la Flor",
+        "id_genero": 2,
+        "duracion": 45,
+        "url": "https://music_como_la_flor",
+        "tipo": "VIRTUAL",
+        "id_album": 9
+    },
+    {
+        "id": 13,
+        "nombre": "Apartamento 512",
+        "id_genero": 4,
+        "duracion": 34,
+        "url": "https://music_apartamento_512",
+        "tipo": "FISICO",
+        "id_album": 4
+    },
+    {
+        "id": 14,
+        "nombre": "Casualidad",
+        "id_genero": 1,
+        "duracion": 34,
+        "url": "https://music_casualidad",
+        "tipo": "VIRTUAL",
+        "id_album": 5
+    },
+    {
+        "id": 15,
+        "nombre": "El temblor",
+        "id_genero": 7,
+        "duracion": 34,
+        "url": "https://music_el_temblor",
+        "tipo": "VIRTUAL",
+        "id_album": 3
+    },
+    {
+        "id": 16,
+        "nombre": "Profugos",
+        "id_genero": 6,
+        "duracion": 35,
+        "url": "https://music_profugos",
+        "tipo": "FISICO",
+        "id_album": 7
     }
 ]

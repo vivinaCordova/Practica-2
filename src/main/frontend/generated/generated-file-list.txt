@@ -1,7 +1,9 @@
 CancionService.ts
 TaskService.ts
+org/unl/music/base/models/Cancion.ts
 com/vaadin/hilla/mappedtypes/Pageable.ts
 org/unl/music/taskmanagement/domain/Task.ts
+org/unl/music/base/models/TipoArchivoEnum.ts
 com/vaadin/hilla/mappedtypes/Sort.ts
 org/unl/music/base/domain/AbstractEntity.ts
 com/vaadin/hilla/mappedtypes/Order.ts
@@ -9,8 +11,10 @@ org/springframework/data/domain/Sort/Direction.ts
 org/springframework/data/domain/Sort/NullHandling.ts
 connect-client.default.ts
 endpoints.ts
+org/unl/music/base/models/CancionModel.ts
 com/vaadin/hilla/mappedtypes/PageableModel.ts
 org/unl/music/taskmanagement/domain/TaskModel.ts
+org/unl/music/base/models/TipoArchivoEnumModel.ts
 com/vaadin/hilla/mappedtypes/SortModel.ts
 org/unl/music/base/domain/AbstractEntityModel.ts
 com/vaadin/hilla/mappedtypes/OrderModel.ts
