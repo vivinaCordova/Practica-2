@@ -8,6 +8,9 @@ la primera, consistia en comparar el redimiento de un arreglo y el de una lista 
 
 [Lista y Arreglos](https://github.com/vivinaCordova/Practica-2/blob/main/src/main/java/org/unl/music/base/controller/data_struct/list/LinkedListPractica.java)
 
+[Medir el Quicksort, y shellsort](https://github.com/vivinaCordova/Practica-2/blob/main/src/main/java/org/unl/music/base/controller/data_struct/list/PPractica.java)
+
+
 ### Parte 2
 la segunda consistea en listar canciones y permitir que se puedan registrar nuevas, usando models, daos, services y vistas.
 
